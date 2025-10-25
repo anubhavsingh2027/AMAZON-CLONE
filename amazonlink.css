@@ -9,7 +9,7 @@
     background-color: #1d5121;
     color: white;
     display: flex;
-      align-items: center; 
+      align-items: center;
       justify-content: space-evenly;
 }
 .nav-logo{
@@ -17,7 +17,7 @@
     width: 100px;
 }
 .logo{
-    
+
     background-image: url(logo.jpg);
     background-size: cover;
     height: 50px;
@@ -42,8 +42,8 @@
     margin-left: 3px;
 }
 .add-icon{
-  display: flex; 
-  align-items: center; 
+  display: flex;
+  align-items: center;
 }
 .nav-search{
     display: flex;
@@ -79,7 +79,7 @@
     border-top-right-radius: 4px;
     border-bottom-right-radius: 4px;
     color: #0f1111;
-    
+
 }
 span{
     font-size: 0.7rem;
@@ -104,7 +104,7 @@ span{
     color:white;
     align-items: center;
     justify-content: space-evenly;
-  
+
 }
 .panel-ops p{
     display: inline;
@@ -207,7 +207,7 @@ background-image: url(tshirt.jpg);
 background-image: url(inner.jpg);
 }
 .Shoes{
-background-image: url(shoes.jpg)    
+background-image: url(shoes.jpg)
 }
 
 .cleaning,.storage,.Decor,.Bedding{
@@ -238,7 +238,7 @@ background-image: url(Bedding.jpg);
     background-size: cover;
     background-position: center;
     border-radius: 8px;
-    margin-bottom: 5px;   
+    margin-bottom: 5px;
 }
 
  .coffee, .pans, .kettles {
