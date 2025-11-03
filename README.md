@@ -1,9 +1,9 @@
 # 🛒 Amazon UI Clone
 
-![Amazon Clone Screenshot](https://amazon-ui-clone.anubhavsingh.website/websiteImg.png)
+![Amazon Clone Preview](https://anubhavsingh2027.github.io/AMAZON-CLONE/websiteImg.png)
 
 ### 🚀 Live Demo
-👉 [Visit Amazon UI Clone](https://amazon-ui-clone.anubhavsingh.website/)
+👉 [Visit Amazon UI Clone](https://anubhavsingh2027.github.io/AMAZON-CLONE/)
 
 ---
 

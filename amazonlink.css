@@ -18,7 +18,7 @@
 }
 .logo{
 
-    background-image: url(logo.jpg);
+    background-image: url(image/logo.jpg);
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -115,7 +115,7 @@ padding-right: 15px;
 }
 
 .hero-section{
-    background-image: url(hero.jpg);
+    background-image: url(image/hero.jpg);
     background-size: cover;
     width: 100%;
     height:310px;
@@ -166,19 +166,19 @@ padding-right: 15px;
     margin-bottom: 5px;
 }
 .headsets {
-    background-image: url('headsets.jpg');
+    background-image: url(image/headsets.jpg);
 }
 
 .keyboards {
-    background-image: url('keyboard.jpg');
+    background-image: url(image/keyboard.jpg);
 }
 
 .mouse {
-    background-image: url('mouse.jpg');
+    background-image: url(image/mouse.jpg);
 }
 
 .chairs {
-    background-image: url('gaming_chair.jpg');
+    background-image: url(image/gaming_chair.jpg);
 }
 
 .label {
@@ -198,16 +198,16 @@ padding-right: 15px;
 
 }
 .Jeans{
-background-image: url(jeans.jpg);
+background-image: url(image/jeans.jpg);
 }
 .Tops{
-background-image: url(tshirt.jpg);
+background-image: url(image/tshirt.jpg);
 }
 .Dresses{
-background-image: url(inner.jpg);
+background-image: url(image/inner.jpg);
 }
 .Shoes{
-background-image: url(shoes.jpg)
+background-image: url(image/shoes.jpg)
 }
 
 .cleaning,.storage,.Decor,.Bedding{
@@ -221,16 +221,16 @@ background-image: url(shoes.jpg)
 }
 
 .cleaning{
-background-image: url(cleaning-tools.jpg);
+background-image: url(image/cleaning-tools.jpg);
 }
 .storage{
-background-image: url(home-storage.jpg);
+background-image: url(image/home-storage.jpg);
 }
 .Decor{
-background-image: url(pots.jpg);
+background-image: url(image/pots.jpg);
 }
 .Bedding{
-background-image: url(Bedding.jpg);
+background-image: url(image/Bedding.jpg);
 }
 .cooker{
     height: 110px;
@@ -251,19 +251,19 @@ background-image: url(Bedding.jpg);
 }
 
 .cooker {
-    background-image: url('cooker.jpg');
+    background-image: url(image/cooker.jpg);
 }
 
 .coffee {
-    background-image: url('cofee.jpg');
+    background-image: url(image/cofee.jpg);
 }
 
 .pans {
-    background-image: url('pans.jpg');
+    background-image: url(image/pans.jpg);
 }
 
 .kettles {
-    background-image: url('kettles.jpg');
+    background-image: url(image/kettles.jpg);
 }
 
 .label1 {
