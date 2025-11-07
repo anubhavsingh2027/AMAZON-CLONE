@@ -34,6 +34,9 @@ This project focuses on recreating Amazon’s clean layout, responsive structure
 
 ---
 
+## Thats My First Project Also 
+
+---
 ## 🖥️ Preview
 
 A glimpse of the Amazon Clone UI 👇
